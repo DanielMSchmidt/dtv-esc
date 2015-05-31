@@ -1,4 +1,7 @@
 # DtvEsc
+[![Build Status](https://travis-ci.org/DanielMSchmidt/dtvEsc.svg)](https://travis-ci.org/DanielMSchmidt/dtvEsc)
+[![Code Climate](https://codeclimate.com/github/DanielMSchmidt/dtvEsc/badges/gpa.svg)](https://codeclimate.com/github/DanielMSchmidt/dtvEsc)
+[![Test Coverage](https://codeclimate.com/github/DanielMSchmidt/dtvEsc/badges/coverage.svg)](https://codeclimate.com/github/DanielMSchmidt/dtvEsc/coverage)
 
 The electronic sports management API from the DTV (german dancesport association) - nicely wrapped for you!
 
